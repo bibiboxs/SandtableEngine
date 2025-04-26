@@ -1,2 +1,4 @@
 # SandtableEngine
-sengine.mp-gamer.com
+Steam URL: [store.steampowered.com/app/926200](https://store.steampowered.com/app/926200/_/)
+
+Wiki: [sengine.mp-gamer.com](https://sengine.mp-gamer.com/)
